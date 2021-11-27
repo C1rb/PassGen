@@ -24,5 +24,4 @@ while True:
         break;
         
     else:
-        print("Please enter y or c only")
-    
+        print("Please enter y or c only")   
