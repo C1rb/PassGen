@@ -2,12 +2,14 @@
 
 print("PassGen Version 1.3")
 
+#Imports and character types
 import random
 upper = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 lower = "abcdefghijklmnopqrstuvwxyz"
 num = "0123456789"
 sym = "!()[]{}"
- 
+
+#Main Code(loop, password generation, errors and answer checking)
 list1 = []
 
 while True:
